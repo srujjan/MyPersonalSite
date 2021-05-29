@@ -9,7 +9,7 @@
   }
 h1{
   font-size: 5.625rem; /*100% ==16px==1em*/
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 0px;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
@@ -84,13 +84,13 @@ margin-left: 240px;
 
 .bottom-cloud{
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  right: 250px;
+  bottom: 200px;
 }
 
 .top-cloud{
   position: absolute;
-  right: 300px;
+  left: 300px;
   top: 40px;
 }
 
@@ -188,7 +188,7 @@ margin-left: 240px;
 }
 
 .laptop{
-  width: 30%;
+  width: 20%;
   height: auto;
 
 }
